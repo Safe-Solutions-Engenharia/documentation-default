@@ -1,0 +1,21 @@
+site_name: How to Document
+site_description: Simple and clean documentation guide on how to document new and past repositories on Safe Solution.
+site_url: https://how-to-document.dev
+site_author: Jonathan Motta
+repo_url: https://github.com/Safe-Solutions-Engenharia/documentation-default
+repo_name: Safe-Solutions-Engenharia/documentation-default
+
+theme:
+  name: material
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/Safe-Solutions-Engenharia
+    - icon: fontawesome/brands/twitter
+      link: https://x.com/SafeSolutionsBR
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/safe-solutions-engenharia/
+
+copyright: |
+  &copy; 2024 <a href="https://github.com/Safe-Solutions-Engenharia"  target="_blank" rel="noopener">Safe Solutions Engenharia</a>
