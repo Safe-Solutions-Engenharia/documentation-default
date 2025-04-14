@@ -5,8 +5,36 @@ site_author: Jonathan Motta
 repo_url: https://github.com/Safe-Solutions-Engenharia/documentation-default
 repo_name: Safe-Solutions-Engenharia/documentation-default
 
+nav:
+  - Home: index.md
+  - Setup Guide: setup.md
+  - Deploy Example: deploy-example.md
+
 theme:
   name: material
+  font:
+    text: Roboto
+    code: Red Hat Mono
+  logo: assets/logo_safe.png
+  favicon: assets/logo_safe.ico
+  features:
+    - navigation.footer
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Dark mode
+      primary: green
+      accent: deep purple
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Light mode
+      primary: green
+      accent: deep orange
 
 extra:
   social:
