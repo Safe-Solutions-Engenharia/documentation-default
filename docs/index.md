@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Documentation Guide
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to the official documentation for the **documentation-default**! This guide will walk you through everything you need to know—from setting up the environment to deploying and updating your documentation.
 
-## Commands
+---
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Get Started
 
-## Project layout
+To get started right away, head to the [Setup Guide](setup.md) and follow the step-by-step instructions.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+For contributions or questions, feel free to open an issue or pull request on [GitHub](https://github.com/Safe-Solutions-Engenharia/documentation-default).

@@ -1,4 +1,4 @@
-# Documentation Tutorial
+# Documentation Guide
 
 This project provides a foundation for creating, organizing, and deploying software documentation. It's designed to be simple, maintainable, and customizable for a wide range of use cases inside Safe Solutions.
 
