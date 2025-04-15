@@ -40,7 +40,7 @@ nav:
   - Home: index.md
   - Setup Guide: setup.md
   - Editing Guide: update-documentation.md
-  - Deploy Example: deploy-example.md
+  - Deploy Example: deployment.md
 ```
 
 ---
