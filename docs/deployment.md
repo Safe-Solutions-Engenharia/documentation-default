@@ -4,20 +4,42 @@
 
 If your repository is **public**, you can easily deploy your documentation using **GitHub Pages**. Here's how:
 
-### 1. Navigate to Repository Settings
+### 1. MkDocs Configuration
+
+Make sure to run `mkdocs` from the config path:
+
+```bash
+mkdocs build -f mkdocs.yml
+```
+
+Inside `mkdocs.yml`, confirm:
+
+```yaml
+site_dir: site
+```
+
+Use the built-in deploy command:
+
+```bash
+mkdocs gh-deploy
+```
+
+Make sure `site/` is ignored on `.gitignore` (you don’t need to commit it).
+
+### 2. Navigate to Repository Settings
 
 Go to your repository and click on the **Settings** tab.
 
 ![alt text](assets/images/settings-image.png)
 
 
-### 2. Open the Pages Settings
+### 3. Open the Pages Settings
 
 Scroll down the left-hand sidebar and select **Pages**.
 
 ![alt text](assets/images/pages-image.png)
 
-### 3. Configure the Source
+### 4. Configure the Source
 
 Under the **Build and deployment** section:
 

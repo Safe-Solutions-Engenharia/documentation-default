@@ -1,6 +1,6 @@
 # Update Documentation
 
-## Understanging Project Structure
+## Understanding Project Structure
 
 ```bash
 documentation-default/
