@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://how-to-document.dev/</loc>
+         <lastmod>2025-04-16</lastmod>
+    </url>
+    <url>
+         <loc>https://how-to-document.dev/deployment/</loc>
+         <lastmod>2025-04-16</lastmod>
+    </url>
+    <url>
+         <loc>https://how-to-document.dev/setup/</loc>
+         <lastmod>2025-04-16</lastmod>
+    </url>
+    <url>
+         <loc>https://how-to-document.dev/update-documentation/</loc>
+         <lastmod>2025-04-16</lastmod>
+    </url>
+</urlset>
